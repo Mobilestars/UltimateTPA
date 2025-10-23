@@ -1,0 +1,14 @@
+{
+  "tpa_request": "§e%player% wants to teleport to you.",
+  "tpahere_request": "&e%player% wants you to teleport to them.",
+  "tpa_accept": "§a[Accept]",
+  "tpa_deny": "§c[Deny]",
+  "tpa_sent": "§7Teleport request sent to §e%player%",
+  "tpahere_sent": "&7Teleport request (here) sent to &e%player%",
+  "tpa_no_request": "§cYou have no pending teleport requests.",
+  "tpa_sender_offline": "§cThe player is no longer online.",
+  "tpa_accepted": "§aYou accepted the teleport request.",
+  "tpa_accepted_by": "§aYour request was accepted by §e%player%",
+  "tpa_denied": "§cYou denied the teleport request.",
+  "tpa_denied_by": "§cYour request was denied by §e%player%"
+}

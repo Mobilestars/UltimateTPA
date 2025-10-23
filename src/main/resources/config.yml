@@ -1,0 +1,20 @@
+# ==== UltimateTPA Configuration ====
+
+# ==== Delay ====
+teleport-delay: 5 # Time (in seconds) before teleport happens after accept
+
+# ==== Expire-Time ====
+request-expire-time: 60 # Time (in seconds) before a teleport request expires
+
+# ==== Conditions ====
+cancel-on-move: true # Whether moving during the delay cancels teleport
+
+# ==== Prefix ====
+prefix: "&7[&aTPA&7] " # Chat prefix for all messages
+
+# ==== Sounds ====
+sound:
+  enabled: true
+  accept: "ENTITY_PLAYER_LEVELUP"
+  deny: "ENTITY_VILLAGER_NO"
+  request: "BLOCK_NOTE_BLOCK_PLING"
